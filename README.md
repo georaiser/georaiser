@@ -23,10 +23,10 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 
 ### 🚀 Featured Projects
 
-- Full Stack Development
 - Deep Learning & Machine Learning
 - Computer Vision & Image Processing
 - Geospatial Analysis & Remote Sensing
+- Full Stack Development
 
 ### 📚 Continuous Learning
 
