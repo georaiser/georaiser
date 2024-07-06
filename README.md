@@ -28,12 +28,6 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 - Computer Vision & Image Processing
 - Geospatial Analysis & Remote Sensing
 
-### 🌱 Current Interests
-
-- Applying AI in various domains
-- Full-stack development
-- Exploring new frontiers in computer vision
-
 ### 📚 Continuous Learning
 
 - Constantly exploring new challenges
