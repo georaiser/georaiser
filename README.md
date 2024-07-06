@@ -3,6 +3,8 @@
 ## Geospatial Data Scientist | Full Stack JAVA Developer | AI Enthusiast
 
 🌍 Specializing in Geomatics, Remote Sensing, and AI-driven solutions
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrodrigueze/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrodriguez.geoai@gmail.com)
 
 ---
 
