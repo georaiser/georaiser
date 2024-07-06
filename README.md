@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Passionate technologist with a blend of expertise in Geomatics, Remote Sensing, and Artificial Intelligence. I thrive on leveraging cutting-edge technologies to solve complex real-world problems, particularly in the realms of geospatial analysis.
+Passionate technologist with a blend of expertise in Geomatics, Remote Sensing, Artificial Intelligence, and Full Stack Development. I thrive on leveraging cutting-edge technologies to solve complex real-world problems, particularly in the realms of geospatial analysis.
 
 ---
 
@@ -28,7 +28,7 @@ Passionate technologist with a blend of expertise in Geomatics, Remote Sensing, 
 
 ### 🌱 Current Interests
 
-- Applying AI
+- Applying AI in various domains
 - Full-stack development
 - Exploring new frontiers in computer vision
 
