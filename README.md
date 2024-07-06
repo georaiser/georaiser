@@ -19,7 +19,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 - **Languages:** Java, Python, HTML
 - **Frameworks:** Spring Boot, PyTorch, TensorFlow
 - **Tools:** 
-- **Focus Areas:** Deep Learning, Computer Vision, Web Scraping
+- **Focus Areas:** Deep Learning, Computer Vision, Gematics
 
 ### 🚀 Featured Projects
 
