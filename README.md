@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Artificial Intelligence, and Full Stack Development. I thrive on leveraging cutting-edge technologies to solve complex real-world problems, particularly in the realms of geospatial analysis.
+Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Artificial Intelligence, and Full Stack Java Development. I thrive on leveraging cutting-edge technologies to solve complex real-world problems, particularly in the realms of geospatial analysis.
 
 ---
 
