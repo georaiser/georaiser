@@ -48,7 +48,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrodrigueze/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrodriguez.geoai@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrodrigueze.info@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/georaiser?style=social)](https://github.com/georaiser)
 
 ---
