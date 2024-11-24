@@ -28,15 +28,6 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 - Geospatial Analysis & Remote Sensing
 - Full Stack Development
 
-### 📚 Continuous Learning
-
-- Constantly exploring new challenges
-
-### 🏆 Achievements
-
-- In the process of achieving the knowledge to develop AI models with high accuracy in various domains
-- In the process of achieving the knowledge to develop secure, scalable and efficient systems.
-
 ---
 
 ### 📈 GitHub Stats
