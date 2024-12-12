@@ -30,12 +30,6 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=georaiser&show_icons=true&theme=radical)
-
----
-
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrodrigueze/)
