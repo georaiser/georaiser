@@ -37,5 +37,6 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 [![GitHub followers](https://img.shields.io/github/followers/georaiser?style=social)](https://github.com/georaiser)
 
 ---
-
+[![Object Detection Benchmark](https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true)](https://github.com/georaiser/16_ObjectDetectionBenchmark)
+---
 💡 "Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."
