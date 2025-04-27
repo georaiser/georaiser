@@ -67,9 +67,9 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
       </p>
     </td>
   </tr>
-  
 </table>
-<table align="center">
+
+<table align="right">
   <tr>
     <td align="center" width="100%">
       <h3>VisualObjectRecognition</h3>
@@ -82,5 +82,6 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
     </td>
   </tr>
 </table>
+
 ---
 💡 "Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."
