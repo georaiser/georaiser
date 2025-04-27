@@ -37,7 +37,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 [![GitHub followers](https://img.shields.io/github/followers/georaiser?style=social)](https://github.com/georaiser)
 
 ---
-<table align="center" cellpadding="10">
+<table align="center" cellpadding="50">
   <tr>
     <td align="center" width="30%">
       <h3>Object Detection Benchmark</h3>
