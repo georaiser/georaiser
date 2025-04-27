@@ -77,7 +77,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
         <img src="https://github.com/georaiser/14_VisualObjectRecognition/blob/master/FasterRCNN_MaskRCNN.gif?raw=true" width="100%" alt="Visual Object Recognition">
       </a>
       <p align="justify">
-        object detection and instance segmentation using Faster R-CNN and Mask R-CNN on the Pascal VOC dataset.
+        object detection and instance segmentation using Faster R-CNN and Mask R-CNN on Pascal VOC dataset.
       </p>
     </td>
   </tr>
