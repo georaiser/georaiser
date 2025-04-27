@@ -37,7 +37,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 [![GitHub followers](https://img.shields.io/github/followers/georaiser?style=social)](https://github.com/georaiser)
 
 ---
-<table align="center" cellpadding="50">
+<table align="center">
   <tr>
     <td align="center" width="30%">
       <h3>Object Detection Benchmark</h3>
@@ -49,51 +49,51 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
       </p>
     </td>
     <td align="center" width="30%">
-      <h3>Satellite Image Classification</h3>
-      <a href="https://github.com/usuario/proyecto2" target="_blank">
+      <h3>Object Detection Benchmark</h3>
+      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
         <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Deep learning models to classify satellite land cover types.
+        Comparative analysis of various object detection models to evaluate performance.
       </p>
     </td>
-    <td align="center" width="30%">
-      <h3>Remote Sensing Analytics</h3>
-      <a href="https://github.com/usuario/proyecto3" target="_blank">
+      <td align="center" width="30%">
+      <h3>Object Detection Benchmark</h3>
+      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
         <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Time series analysis of remote sensing data using AI.
+        Comparative analysis of various object detection models to evaluate performance.
       </p>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="30%">
-      <h3>Object Tracking Suite</h3>
-      <a href="https://github.com/usuario/proyecto4" target="_blank">
+      <h3>Object Detection Benchmark</h3>
+      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
         <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Real-time object tracking framework for UAV applications.
+        Comparative analysis of various object detection models to evaluate performance.
       </p>
     </td>
     <td align="center" width="30%">
-      <h3>Geospatial Deep Learning</h3>
-      <a href="https://github.com/usuario/proyecto5" target="_blank">
+      <h3>Object Detection Benchmark</h3>
+      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
         <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Building AI models to monitor environmental changes from space.
+        Comparative analysis of various object detection models to evaluate performance.
       </p>
     </td>
-    <td align="center" width="30%">
-      <h3>Full Stack Web GIS</h3>
-      <a href="https://github.com/usuario/proyecto6" target="_blank">
+      <td align="center" width="30%">
+      <h3>Object Detection Benchmark</h3>
+      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
         <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Development of complete web applications with geospatial capabilities.
+        Comparative analysis of various object detection models to evaluate performance.
       </p>
     </td>
   </tr>
