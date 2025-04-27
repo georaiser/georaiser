@@ -67,37 +67,20 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
       </p>
     </td>
   </tr>
-
+  
+</table>
+<table align="center">
   <tr>
-    <td align="center" width="30%">
-      <h3>Object Detection Benchmark</h3>
-      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
-        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
+    <td align="center" width="100%">
+      <h3>VisualObjectRecognition</h3>
+      <a href="https://github.com/georaiser/14_VisualObjectRecognition" target="_blank">
+        <img src="https://github.com/georaiser/14_VisualObjectRecognition/blob/master/FasterRCNN_MaskRCNN.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Comparative analysis of various object detection models to evaluate performance.
-      </p>
-    </td>
-    <td align="center" width="30%">
-      <h3>Object Detection Benchmark</h3>
-      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
-        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
-      </a>
-      <p align="justify">
-        Comparative analysis of various object detection models to evaluate performance.
-      </p>
-    </td>
-      <td align="center" width="30%">
-      <h3>Object Detection Benchmark</h3>
-      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
-        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
-      </a>
-      <p align="justify">
-        Comparative analysis of various object detection models to evaluate performance.
+        object detection and instance segmentation using **Faster R-CNN** and **Mask R-CNN** on the Pascal VOC dataset.
       </p>
     </td>
   </tr>
 </table>
-
 ---
 💡 "Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."
