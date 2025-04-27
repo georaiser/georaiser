@@ -69,12 +69,12 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
   </tr>
 </table>
 
-<table align="right">
+<table>
   <tr>
     <td align="center" width="100%">
-      <h3>VisualObjectRecognition</h3>
+      <h3>Visual Object Recognition</h3>
       <a href="https://github.com/georaiser/14_VisualObjectRecognition" target="_blank">
-        <img src="https://github.com/georaiser/14_VisualObjectRecognition/blob/master/FasterRCNN_MaskRCNN.gif?raw=true" width="100%" alt="Object Detection Benchmark">
+        <img src="https://github.com/georaiser/14_VisualObjectRecognition/blob/master/FasterRCNN_MaskRCNN.gif?raw=true" width="100%" alt="Visual Object Recognition">
       </a>
       <p align="justify">
         object detection and instance segmentation using **Faster R-CNN** and **Mask R-CNN** on the Pascal VOC dataset.
@@ -84,4 +84,5 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 </table>
 
 ---
-💡 "Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."
+###### 💡 "Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."
+---
