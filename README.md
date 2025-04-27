@@ -72,7 +72,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 <table>
   <tr>
     <td align="center" width="100%">
-      <h3>object detection and instance segmentation</h3>
+      <h3>Object Detection - Instance Segmentation</h3>
       <a href="https://github.com/georaiser/14_VisualObjectRecognition" target="_blank">
         <img src="https://github.com/georaiser/14_VisualObjectRecognition/blob/master/FasterRCNN_MaskRCNN.gif?raw=true" width="100%" alt="Visual Object Recognition">
       </a>
