@@ -54,7 +54,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
         <img src="https://github.com/georaiser/15_ObjectTracking/blob/master/Video2_output2.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Project that combine Faster R-CNN for object detection and DeepSORT for real-time tracking.
+        Project that combine Faster R-CNN for object detection and DeepSORT for real-time tracking, with counter lines.
       </p>
     </td>
       <td align="center" width="30%">
