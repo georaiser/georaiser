@@ -42,7 +42,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
     <td align="center" width="30%">
       <h3>Object Detection Benchmark</h3>
       <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
-        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/Video1_yolo11m.gif?raw=true" width="100%" alt="Object Detection Benchmark">
+        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
         Comparative analysis of various object detection models to evaluate performance.
@@ -60,7 +60,7 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
       <td align="center" width="30%">
       <h3>Object Detection Benchmark</h3>
       <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
-        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
+        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/Video1_yolo11m.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
         Comparative analysis of various object detection models to evaluate performance.
