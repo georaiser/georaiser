@@ -28,6 +28,8 @@
 ### 1. Object Detection Benchmark
 **Purpose**: Comprehensive performance comparison of state-of-the-art object detection models (YOLO v11, Faster R-CNN, RetinaNet, SSD)
 
+**Description**: This project presents an in-depth comparative analysis of multiple state-of-the-art object detection models, evaluating their performance across diverse metrics including accuracy, processing speed, and computational resource utilization. The benchmark provides data-driven insights for selecting the most appropriate detection model based on specific application requirements and constraints.
+
 **Technologies**: Python, PyTorch, OpenCV, YOLO v11
 
 **Key Achievement**: Created reproducible benchmarking framework analyzing speed-accuracy trade-offs for model selection in production environments
@@ -39,6 +41,8 @@
 ### 2. Real-Time Object Tracking System
 **Purpose**: Multi-object tracking combining Faster R-CNN detection with DeepSORT algorithm, featuring intelligent counting with virtual line crossing detection
 
+**Description**: An advanced multi-object tracking system that seamlessly integrates Faster R-CNN for precise object detection with DeepSORT for robust tracking across video frames. The system features intelligent counting mechanisms with configurable virtual line crossing detection, making it applicable to traffic monitoring, crowd analysis, retail analytics, and surveillance applications.
+
 **Technologies**: Faster R-CNN, DeepSORT, Python, PyTorch, OpenCV, Kalman Filters
 
 **Key Achievement**: Developed robust tracking system handling occlusions and maintaining persistent object IDs across video frames, suitable for traffic monitoring and surveillance applications
@@ -49,6 +53,8 @@
 
 ### 3. Instance Segmentation with Mask R-CNN
 **Purpose**: Pixel-level object segmentation using Mask R-CNN on Pascal VOC dataset, advancing from bounding box detection to precise instance masks
+
+**Description**: A comprehensive implementation showcasing both object detection and pixel-precise instance segmentation using Faster R-CNN and Mask R-CNN architectures. Trained on the Pascal VOC dataset, this project demonstrates the evolution from simple bounding box detection to sophisticated pixel-level segmentation, enabling more precise object localization crucial for advanced computer vision applications in robotics, autonomous systems, and medical imaging.
 
 **Technologies**: Mask R-CNN, Faster R-CNN, PyTorch, Pascal VOC Dataset, OpenCV
 
@@ -83,7 +89,7 @@
         <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/Video1_yolo11m.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Comparative analysis of various object detection models to evaluate performance.
+        Comparative analysis.
       </p>
     </td>
     <td align="center" width="30%">
@@ -92,7 +98,7 @@
         <img src="https://github.com/georaiser/15_ObjectTracking/blob/master/Video2_output2.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Project that combine Faster R-CNN for object detection and DeepSORT for real-time tracking, with counter lines.
+        Faster R-CNN for object detection and DeepSORT for real-time tracking.
       </p>
     </td>
       <td align="center" width="30%">
@@ -101,7 +107,7 @@
         <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Comparative analysis of various object detection models to evaluate performance.
+        Comparative analysis.
       </p>
     </td>
   </tr>
