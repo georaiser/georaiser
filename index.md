@@ -1,8 +1,4 @@
-# Jorge Rodríguez 🌍
-
-## Geospatial Data Scientist | Full Stack JAVA Developer | AI Enthusiast
-
---- 
+# Jorge Rodríguez
 
 ## Professional Profile
 
