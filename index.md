@@ -98,7 +98,7 @@
         <img src="https://github.com/georaiser/15_ObjectTracking/blob/master/Video2_output2.gif?raw=true" width="100%" alt="Object Detection Benchmark">
       </a>
       <p align="justify">
-        Faster R-CNN for object detection and DeepSORT for real-time tracking.
+        Faster R-CNN and DeepSORT.
       </p>
     </td>
       <td align="center" width="30%">
