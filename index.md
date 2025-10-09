@@ -141,5 +141,5 @@
 
 ---
 
-#### 💡 "Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."
+#### 💡 “Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow’s challenges, unlock insights and drive innovation.”
 ---
