@@ -4,6 +4,8 @@
 
 **Jorge Rodríguez** is a Geospatial Data Scientist, Full Stack Java Developer, and AI Enthusiast specializing in Geomatics, Remote Sensing, and AI-driven solutions. He combines expertise in spatial data analysis with cutting-edge artificial intelligence and enterprise software development.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrodrigueze/)
+
 ---
 
 ## Core Competencies
@@ -83,16 +85,61 @@
 
 ---
 
-## Summary Assessment
+<table align="center">
+  <tr>
+    <td align="center" width="30%">
+      <h3>Object Detection Benchmark</h3>
+      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
+        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/Video1_yolo11m.gif?raw=true" width="100%" alt="Object Detection Benchmark">
+      </a>
+      <p align="justify">
+        Comparative analysis of various object detection models to evaluate performance.
+      </p>
+    </td>
+    <td align="center" width="30%">
+      <h3>Faster R-CNN and DeepSORT</h3>
+      <a href="https://github.com/georaiser/15_ObjectTracking" target="_blank">
+        <img src="https://github.com/georaiser/15_ObjectTracking/blob/master/Video2_output2.gif?raw=true" width="100%" alt="Object Detection Benchmark">
+      </a>
+      <p align="justify">
+        Project that combine Faster R-CNN for object detection and DeepSORT for real-time tracking, with counter lines.
+      </p>
+    </td>
+      <td align="center" width="30%">
+      <h3>Object Detection Benchmark</h3>
+      <a href="https://github.com/georaiser/16_ObjectDetectionBenchmark" target="_blank">
+        <img src="https://github.com/georaiser/16_ObjectDetectionBenchmark/blob/master/comparative_video1.gif?raw=true" width="100%" alt="Object Detection Benchmark">
+      </a>
+      <p align="justify">
+        Comparative analysis of various object detection models to evaluate performance.
+      </p>
+    </td>
+  </tr>
+</table>
 
-Jorge Rodríguez's portfolio demonstrates:
-- ✅ Strong technical foundation across multiple domains (AI, geospatial, full-stack development)
-- ✅ Practical experience with production-grade computer vision systems
-- ✅ Deep understanding of trade-offs in model selection and deployment
-- ✅ Commitment to continuous learning and research engagement
-- ✅ Clear communication of complex technical concepts
-- ✅ Well-documented projects with comprehensive reflections on learning outcomes
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h3>Object Detection - Instance Segmentation</h3>
+      <a href="https://github.com/georaiser/14_VisualObjectRecognition" target="_blank">
+        <img src="https://github.com/georaiser/14_VisualObjectRecognition/blob/master/FasterRCNN_MaskRCNN.gif?raw=true" width="100%" alt="Visual Object Recognition">
+      </a>
+      <p align="justify">
+        object detection and instance segmentation using Faster R-CNN and Mask R-CNN on Pascal VOC dataset.
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Portfolio Strengths**: Interdisciplinary expertise, hands-on project experience, thorough documentation, professional presentation
+---
 
-**Ideal For**: Roles in AI/ML engineering, computer vision, geospatial data science, or full-stack development with focus on intelligent systems
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrodrigueze/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrodrigueze.info@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/georaiser?style=social)](https://github.com/georaiser)
+
+---
+
+#### 💡 "Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."
+---
