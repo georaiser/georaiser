@@ -71,20 +71,6 @@
 
 ---
 
-## Professional Philosophy
-
-*"Innovate at the confluence of AI, geospatial technology and software engineering to create impactful solutions to tomorrow's challenges, unlock insights and drive innovation."*
-
----
-
-## Contact Information
-
-- **LinkedIn**: [linkedin.com/in/jrodrigueze](https://www.linkedin.com/in/jrodrigueze/)
-- **Email**: jrodrigueze.info@gmail.com
-- **GitHub**: [github.com/georaiser](https://github.com/georaiser)
-
----
-
 <table align="center">
   <tr>
     <td align="center" width="30%">
