@@ -1,4 +1,8 @@
-# Portfolio Summary - Jorge Rodríguez
+# Jorge Rodríguez 🌍
+
+## Geospatial Data Scientist | Full Stack JAVA Developer | AI Enthusiast
+
+--- 
 
 ## Professional Profile
 
