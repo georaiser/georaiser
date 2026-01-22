@@ -16,8 +16,8 @@ Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Arti
 
 ### 🛠️ Technical Proficiencies
 
-- **Languages:** Java, Python, HTML
-- **Frameworks:** Spring Boot, PyTorch, TensorFlow
+- **Languages:** Python, HTML, Java, 
+- **Frameworks:** PyTorch, TensorFlow, Spring Boot, 
 - **Tools:** 
 - **Focus Areas:** Deep Learning, Computer Vision, Geoscience
 
