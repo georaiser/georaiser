@@ -1,6 +1,6 @@
 # Jorge Rodríguez 🌍
 
-## Geospatial Data Scientist | Full Stack JAVA Developer | AI Enthusiast
+## Geospatial Data Scientist | Full Stack Developer | AI Enthusiast
 
 🌍 Specializing in Geomatics, Remote Sensing, and AI-driven solutions
 
@@ -10,13 +10,13 @@
 
 ### 👨‍💻 About Me
 
-Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Artificial Intelligence, and Full Stack Java Development. I thrive on leveraging cutting-edge technologies to solve complex real-world problems, particularly in the realms of geospatial analysis.
+Passionate engineer with a blend of expertise in Geomatics, Remote Sensing, Artificial Intelligence, and Full Stack Development. I thrive on leveraging cutting-edge technologies to solve complex real-world problems, particularly in the realms of geospatial analysis.
 
 ---
 
 ### 🛠️ Technical Proficiencies
 
-- **Languages:** Python, HTML, Java, 
+- **Languages:** Python, HTML, Java, JS 
 - **Frameworks:** PyTorch, TensorFlow, Spring Boot, 
 - **Tools:** 
 - **Focus Areas:** Deep Learning, Computer Vision, Geoscience
